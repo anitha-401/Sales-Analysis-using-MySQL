@@ -1,18 +1,18 @@
 # Sales Analysis using MySQL
 
-📝 Objectives
+# 📝 Objectives
 - To perform analytical queries on a sales dataset using SQL.
 
 - To extract actionable insights from sales data such as customer behavior, product performance, and revenue trends.
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 - SQL (Structured Query Language)
 
-# MySQL (or compatible RDBMS)
+-  MySQL (or compatible RDBMS)
 
 - GitHub (for version control and project sharing)
 
-🪜 Steps Included
+# 🪜 Steps Included
 - Created and used the COMPANY database.
 
 - Queried the SALES table for filtering, aggregation, sorting, and ranking.
